@@ -1,4 +1,3 @@
 # About
 
-This is the website source code for my company available at: 
-https://functor-software.hr
+This is the website source code for: [functor-software.hr](https://functor-software.hr?ref=github-readme)
